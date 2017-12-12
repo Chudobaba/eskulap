@@ -495,17 +495,25 @@ footer{
     }
     .show-menu {
         display: block;
+
+    }
+    .logo img, .show-menu{
+        margin: 0 15px;
     }
     .section-1 .register1{
         display: none;
         float: none;
     }
+
     .section-1 .video-container{
         float: none;
         margin: auto;
     }
     .section-2 .video-education, .section-3{
         margin: 0 10px;
+    }
+    .section-4 h2 {
+        text-align: center;
     }
     footer{
         margin: 0 0 20px 10px;
